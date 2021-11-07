@@ -1,7 +1,7 @@
 
 <!DOCTYPE html>
 <html>
-<title>W3.CSS Template</title>
+<title>BhagyashreeMukherjee</title>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=2">
 <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
