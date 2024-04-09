@@ -46,7 +46,7 @@
         </figure>
 
         <div class="info-content">
-          <h1 class="name" title="Richard hanrick">Bhagyashree Mukherjee</h1>
+          <h1 class="name" title="Bhagyashree Mukherjee">Bhagyashree Mukherjee</h1>
 
           <p class="title">Web developer</p>
         </div>
@@ -74,7 +74,7 @@
             <div class="contact-info">
               <p class="contact-title">Email</p>
 
-              <a href="mailto:@example.com" class="contact-link">richard@example.com</a>
+              <a href="mailto:@example.com" class="contact-link">bhagyashree.6april@gmail.com</a>
             </div>
 
           </li>
@@ -116,7 +116,7 @@
             <div class="contact-info">
               <p class="contact-title">Location</p>
 
-              <address>Sacramento, California, USA</address>
+              <address>Bangalore, India</address>
             </div>
 
           </li>
